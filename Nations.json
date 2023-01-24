@@ -1,0 +1,24 @@
+[
+{
+		"name": "Myownation",
+		"leadername": "Me",
+		"adjective": ["Mine"],
+		"startBias": ["Coast"],
+		"preferredVictoryType": "Domination",
+                "startIntroPart1": " ",
+		"startIntroPart2": " ",
+		"declaringWar": "I know better!",
+		"attacked": "Yes! I've been itching for a fight!",
+		"defeated": "Impossible.",
+		"introduction": "Greetings, I, Me the Great will remember you.",
+		"neutralHello": "Hi.",
+		"hateHello": "Hm!?",
+		"tradeRequest": "You have no other choice."
+		"outerColor": [255, 223, 0],
+		"innerColor": [0, 128, 0],
+                "favoredReligion": "Judaism",
+		"uniqueName": "The gratness of me",
+		"uniques": ["[+33]% Strength <vs [Land] units> <in [Open terrain] tiles>", "[+1 Production, +1 Gold] from every [Grassland]", "[+1 Production, +1 Gold] from every [Plains]"
+		"cities": ["Nice City", "Great City", "Good City", "City", "City: 2", "City: 3 ressurection", "Just a city", "Your mum", "Another City", " Bruh", "Why are you doing this?", "Please don't make new settlers"]
+	},
+]
