@@ -1,2 +1,2 @@
 # myownation-
-Adds my won nation to UnCiv
+Adds my own nation to UnCiv
